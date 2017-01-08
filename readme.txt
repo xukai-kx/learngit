@@ -5,4 +5,10 @@ git tracks changes of files.
 
 creating a new branch is quick & simple.
 
+
 branch bugsol to repaire bug.
+
+a new branch dev,need to stash for repaire a bug.
+
+second open222
+
